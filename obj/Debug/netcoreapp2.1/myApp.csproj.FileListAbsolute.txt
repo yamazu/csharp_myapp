@@ -1,0 +1,11 @@
+/Users/yamazu/Develop/csharp/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/yamazu/Develop/csharp/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/yamazu/Develop/csharp/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/yamazu/Develop/csharp/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/yamazu/Develop/csharp/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/yamazu/Develop/csharp/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
